@@ -1,5 +1,5 @@
 
-# Nuclear Cell Loading Routine (NCLR)
+# nuclear cell loading routine (nclr)
 
 An [fCPU][1] program to wastelessly load a uranium fuel cell into a nuclear reactor from the game [Factorio][2].
 
